@@ -12,7 +12,7 @@ SEED Labs are internet security attacks virtualization and experimentations prov
 
 The labs are part of the Internet Security courses provided by Syracuse University. They cover different defence mechanisms, such as intrusion detection, firewalls, tracing the source of attacks, anonymous communication, IPsec, virtual private network, and PKI.
 
-All code are located in the volumes folder.
+All code are located in the `volumes folder`.
 
 ## Lab Environment Setup
 
@@ -20,9 +20,9 @@ The instructions and documentation on setting up a SEED labs environment are ava
 
 The guides will help you:
 
-- Create and configure a new VM in Virtual Box or.
-- Download a prebuilt Virtual Box image >> [SEED Ubuntu Image](https://seedsecuritylabs.org/lab_env.html).
-- You also have the option of using docker through a prebuilt docker image with docker-compose.
+- Create and configure a new VM in `Virtual Box` or.
+- Download a prebuilt `Virtual Box Image` >> [SEED Ubuntu Image](https://seedsecuritylabs.org/lab_env.html).
+- You also have the option of using `Docker` through a prebuilt `Dockerfile` and `docker-compose`.
 
 ## Attacks Covered
 
